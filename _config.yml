@@ -1,14 +1,14 @@
-layout_spectrum: 0.6167445390019566
-typography_spectrum: 0.6912724282592535
+layout_spectrum: 0.8093490991741419
+typography_spectrum: 0.5086330189369619
 color:
-  brandStrength: 0.7483090572059155
-  lightness: 0.15230222837999463
-  saturation: 0.13834390230476856
-  rhythmicContrast: 0.24326759856194258
+  brandStrength: 0.6631909033749253
+  lightness: 0.2300842043478042
+  saturation: 0.3809988717548549
+  rhythmicContrast: 0.43387209507636726
   brandColors:
-    - '#450003'
-    - '#5C0002'
-    - '#94090D'
-    - '#D40D12'
-    - '#FF1D23'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: broozh
