@@ -1,14 +1,26 @@
 layout_spectrum: 0.8093490991741419
-typography_spectrum: 0.5086330189369619
+name: broozh
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
   brandStrength: 0.6631909033749253
-  lightness: 0.2300842043478042
   saturation: 0.3809988717548549
-  rhythmicContrast: 0.43387209507636726
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-name: broozh
+  lightness: 0.2300842043478042
+  rhythmicContrast: 0.4338720950763673
+typography_spectrum: 0.346543
